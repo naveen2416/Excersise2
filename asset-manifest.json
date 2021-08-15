@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Excersise1/static/css/main.a617e044.chunk.css",
-    "main.js": "/Excersise1/static/js/main.8f1cfe8d.chunk.js",
-    "main.js.map": "/Excersise1/static/js/main.8f1cfe8d.chunk.js.map",
-    "runtime-main.js": "/Excersise1/static/js/runtime-main.84cc587a.js",
-    "runtime-main.js.map": "/Excersise1/static/js/runtime-main.84cc587a.js.map",
-    "static/js/2.57c24b2c.chunk.js": "/Excersise1/static/js/2.57c24b2c.chunk.js",
-    "static/js/2.57c24b2c.chunk.js.map": "/Excersise1/static/js/2.57c24b2c.chunk.js.map",
-    "static/js/3.a601e579.chunk.js": "/Excersise1/static/js/3.a601e579.chunk.js",
-    "static/js/3.a601e579.chunk.js.map": "/Excersise1/static/js/3.a601e579.chunk.js.map",
-    "index.html": "/Excersise1/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/Excersise1/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.57c24b2c.chunk.js.LICENSE.txt": "/Excersise1/static/js/2.57c24b2c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Excersise1/static/media/logo.6ce24c58.svg"
+    "main.css": "/Excersise2/static/css/main.a617e044.chunk.css",
+    "main.js": "/Excersise2/static/js/main.8f1cfe8d.chunk.js",
+    "main.js.map": "/Excersise2/static/js/main.8f1cfe8d.chunk.js.map",
+    "runtime-main.js": "/Excersise2/static/js/runtime-main.03167803.js",
+    "runtime-main.js.map": "/Excersise2/static/js/runtime-main.03167803.js.map",
+    "static/js/2.57c24b2c.chunk.js": "/Excersise2/static/js/2.57c24b2c.chunk.js",
+    "static/js/2.57c24b2c.chunk.js.map": "/Excersise2/static/js/2.57c24b2c.chunk.js.map",
+    "static/js/3.a601e579.chunk.js": "/Excersise2/static/js/3.a601e579.chunk.js",
+    "static/js/3.a601e579.chunk.js.map": "/Excersise2/static/js/3.a601e579.chunk.js.map",
+    "index.html": "/Excersise2/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Excersise2/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.57c24b2c.chunk.js.LICENSE.txt": "/Excersise2/static/js/2.57c24b2c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Excersise2/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.84cc587a.js",
+    "static/js/runtime-main.03167803.js",
     "static/js/2.57c24b2c.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.8f1cfe8d.chunk.js"
